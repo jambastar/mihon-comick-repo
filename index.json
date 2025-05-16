@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Comick (Mihon)",
+    "pkg": "org.mihon.extension.all.comickfun",
+    "apk": "tachiyomi-all.comickfun-v1.4.56.apk",
+    "lang": "all",
+    "version": "1.4.56",
+    "nsfw": false,
+    "sources": [
+      {
+        "name": "Comick",
+        "lang": "all",
+        "id": "982606170401027267",
+        "baseUrl": "https://comick.io"
+      }
+    ]
+  }
+]
